@@ -20,3 +20,7 @@ The project includes full data cleaning, feature engineering, and visualization 
   - Visualize no-show rates, total appointments, recurring visits, and more
   - Built using Dash components and Plotly charts for interactivity
 
+## Dashboard Screenshots
+![Dashboard view](DashboardScreenshots/dashboard.png)
+![Dashboard view](DashboardScreenshots/dashboard.png)
+![Dashboard view](DashboardScreenshots/dashboard.png)
