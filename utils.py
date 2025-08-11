@@ -5,7 +5,6 @@ def create_data_card(title, id_value, icon=None, color="primary"):
     return dbc.Card(
         dbc.CardBody([
             html.Div([
-                # Icon (optional)
                 html.Div(icon, style={'fontSize': '30px', 'marginRight': '10px'}) if icon else None,
                 html.H6(title, className="card-title mb-1", style={'fontWeight': '600', 'color': '#555'})
             ], style={'display': 'flex', 'alignItems': 'center'}),
