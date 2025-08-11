@@ -21,6 +21,6 @@ The project includes full data cleaning, feature engineering, and visualization 
   - Built using Dash components and Plotly charts for interactivity
 
 ## Dashboard Screenshots
-![Dashboard view](DashboardScreenshots/Screenshot (247).png)
-![Dashboard view](DashboardScreenshots/Screenshot (248).png)
-![Dashboard view](DashboardScreenshots/dashboard.png)
+![Dashboard view](DashboardScreenshots/dashboard1.png)
+![Dashboard view](DashboardScreenshots/dashboard2.png)
+![Dashboard view](DashboardScreenshots/dashboard3.png)
